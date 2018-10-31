@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "227746038893",
+    "firebase_url": "https://cine-calcadao-app.firebaseio.com",
+    "project_id": "cine-calcadao-app",
+    "storage_bucket": "cine-calcadao-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227746038893:android:ae84701878e2e4ba",
+        "android_client_info": {
+          "package_name": "com.mmaresso.cinecalcadao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227746038893-vuflnsq4sor3tg5piirkpd8skmp8o8n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsL2z2-Nj_x6Dz6UP9YgUAWIBsV0bUq_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
